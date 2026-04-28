@@ -1,4 +1,4 @@
-!pip -q install supabase
+
 
 import requests
 import pandas as pd
